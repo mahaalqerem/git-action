@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license....
 -->
 
-# Hello GitHub Actions 💫 💥 💫 💥 💫 💥 💫 💥 
+# Hello GitHub Actions 💫 💥 💫 💥 
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## Welcome 💫 💥 💥💫 💥 💥
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
